@@ -16,6 +16,8 @@ This first version of the plugin has been tested with Mautic 3.x and Mautic 4.x
 - Send Segment SMS to a chosen segment
 - Send SMS via Campaigns
 
+![image](https://user-images.githubusercontent.com/59197832/180973540-583f022a-67a3-4cb2-8034-acb6efa27f5e.png)
+
 ## Installation
 
 1. Download the plugin from this github or clone it
@@ -27,3 +29,5 @@ This first version of the plugin has been tested with Mautic 3.x and Mautic 4.x
 7. Go to your web browser, Mautic to Configuration and Plugins and refresh and then click install
 
 ## Creating a MessageWhiz Account
+
+
