@@ -25,3 +25,5 @@ This first version of the plugin has been tested with Mautic 3.x and Mautic 4.x
 5. Clear the cache either by using mautic:cache:clear or cd /var/www/mautic/var/cache and rm -rf *
 6. Run the following command from your root directory of Mautic: php bin/console mautic:assets:generate
 7. Go to your web browser, Mautic to Configuration and Plugins and refresh and then click install
+
+## Creating a MessageWhiz Account
