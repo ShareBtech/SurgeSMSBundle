@@ -34,5 +34,16 @@ In order to use this plugin you will need an account with [Message Whiz](https:/
 1. Click here to open an account
 2. You will receieve a verification email to verify your email address.
 3. MessageWhiz works with over x countries and will open a route for the different countries you want to SMS to.
+4. You can use Surge.SMS Country Form to let MessageWhiz know which GEO's you would like to SMS out to.  This needs to be done in order for them to open up specific Routes for you.
+
+## Configuring Surge.SMS Gateway
+
+In order to Configure the Surge.SMS Gateway you will need to obtain your API key from Message Whiz.  This can be done by login into the Dashboard and going to "My Account". You will see your API key there, copy it and paste it into the API area of the plugin.
+![image](https://user-images.githubusercontent.com/59197832/180984317-d1bfbf43-0478-4a4a-8c36-ab5d9d383c59.png)
+
+Next you need to input your default Sender ID and Default Campaign ID.
+
+The sender ID is something that you can define inside Message Whiz
+
 
 
