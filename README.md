@@ -45,5 +45,6 @@ Next you need to input your default Sender ID and Default Campaign ID.
 
 The sender ID is something that you can define inside Message Whiz
 
+![image](https://user-images.githubusercontent.com/59197832/180984902-ee2e02e3-e2e3-4980-9eca-9c9a265d03cf.png)
 
 
