@@ -30,4 +30,9 @@ This first version of the plugin has been tested with Mautic 3.x and Mautic 4.x
 
 ## Creating a MessageWhiz Account
 
+In order to use this plugin you will need an account with [Message Whiz](https://messagewhiz.com).  It is easy to setup an account and their support is excellet.
+1. Click here to open an account
+2. You will receieve a verification email to verify your email address.
+3. MessageWhiz works with over x countries and will open a route for the different countries you want to SMS to.
+
 
