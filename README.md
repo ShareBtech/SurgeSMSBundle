@@ -1,7 +1,7 @@
 # SurgeSMSBundle
 
 ## Description
-Surge.Media has developed a new plugin for sending out SMS using MessageWhiz's gateway.
+[Surge.Media](https://surge.media) has developed a new plugin for sending out SMS using MessageWhiz's gateway.
 
 ## Purpose
 The plugin is used as an alternative to other plugins that ship directly with Mautic and offers a seemless integration and setup to get you sending SMS's immediately.
