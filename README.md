@@ -12,7 +12,7 @@ This first version of the plugin has been tested with Mautic 3.x and Mautic 4.x
 
 ## Features
 
-- Send Test SMS from within a Text setup
+- Send Test SMS from within an SMS setup
 - Send Segment SMS to a chosen segment
 - Send SMS via Campaigns
 
@@ -23,4 +23,5 @@ This first version of the plugin has been tested with Mautic 3.x and Mautic 4.x
 3. Unzip the plugin.  It will create a new directory SurgeBundle within this dorectory
 4. Change the ownership to the www owner. (chown -R www-data:www-data *)
 5. Clear the cache either by using mautic:cache:clear or cd /var/www/mautic/var/cache and rm -rf *
-6. Go to your web browser, Mautic to Configuration and Plugins and refresh and then click install
+6. Run the following command from your root directory of Mautic: php bin/console mautic:assets:generate
+7. Go to your web browser, Mautic to Configuration and Plugins and refresh and then click install
