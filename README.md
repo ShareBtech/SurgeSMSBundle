@@ -31,7 +31,7 @@ This first version of the plugin has been tested with Mautic 3.x and Mautic 4.x
 ## Creating a MessageWhiz Account
 
 In order to use this plugin you will need an account with [Message Whiz](https://sms.mmdsmart.com/signup?source_id=surge).  It is easy to setup an account and their support is excellet.
-1. Click [here](https://sms.mmdsmart.com/signup?source_id=surge targer="_blank") to open an account
+1. Click [here](https://sms.mmdsmart.com/signup?source_id=surge target="_blank") to open an account
 2. You will receieve a verification email to verify your email address.
 3. MessageWhiz works with over x countries and will open a route for the different countries you want to SMS to.
 4. You can use Surge.SMS Country Form to let MessageWhiz know which GEO's you would like to SMS out to.  This needs to be done in order for them to open up specific Routes for you.
