@@ -39,6 +39,9 @@ In order to use this plugin you will need an account with [Message Whiz](https:/
 ## Configuring Surge.SMS Gateway
 
 In order to Configure the Surge.SMS Gateway you will need to obtain your API key from Message Whiz.  This can be done by login into the Dashboard and going to "My Account". You will see your API key there, copy it and paste it into the API area of the plugin.
+
+Surge has created an API connection in order to help extract your Campaign ID and Sender ID.  You can use this little application by clicking [here](https://surge.media/messagewhiz/).  You will then receive your Campaign ID and Sender ID.
+
 ![image](https://user-images.githubusercontent.com/59197832/180984317-d1bfbf43-0478-4a4a-8c36-ab5d9d383c59.png)
 
 Next you need to input your default Sender ID and Default Campaign ID.
@@ -47,6 +50,5 @@ The sender ID is something that you can define inside Message Whiz
 
 ![image](https://user-images.githubusercontent.com/59197832/180984902-ee2e02e3-e2e3-4980-9eca-9c9a265d03cf.png)
 
-Surge has created an API connection in order to help extract your Campaign ID and Sender ID.  You can use this little application by clicking [here](https://surge.media/messagewhiz/).  You will then receive your Campaign ID and Sender ID.
 
 
