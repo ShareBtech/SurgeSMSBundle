@@ -47,4 +47,6 @@ The sender ID is something that you can define inside Message Whiz
 
 ![image](https://user-images.githubusercontent.com/59197832/180984902-ee2e02e3-e2e3-4980-9eca-9c9a265d03cf.png)
 
+Surge has created an API connection in order to help extract your Campaign ID and Sender ID.  You can use this little application by clicking [here](https://surge.media/messagewhiz/).  You will then receive your Campaign ID and Sender ID.
+
 
