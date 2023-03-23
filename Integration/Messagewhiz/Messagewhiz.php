@@ -88,7 +88,7 @@ class Messagewhiz
 	private function _sendRequestCurl($command, $params)
 	{
 
-		$url = self::REQUEST_URL . $command . '/';
+		$url = self::REQUEST_URL . $command;
 		// Initialize handle
 		$ch = curl_init($url);
 		curl_setopt_array($ch, array(
